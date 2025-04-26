@@ -2,11 +2,11 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e9f5ff; /* Màu nền sáng */
+    background-color: #e9f5ff; 
 }
 
 header {
-    background: #007bff; /* Màu xanh dương tươi sáng */
+    background: #007bff; 
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -31,7 +31,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffdd57; /* Màu vàng khi hover */
+    color: #ffdd57; 
 }
 
 section {
@@ -43,11 +43,11 @@ section {
 }
 
 h2 {
-    color: #007bff; /* Màu tiêu đề */
+    color: #007bff; 
 }
 
 .product {
-    border: 2px solid #007bff; /* Viền sản phẩm */
+    border: 2px solid #007bff; 
     padding: 15px;
     margin: 15px 0;
     border-radius: 8px;
@@ -56,8 +56,8 @@ h2 {
 }
 
 .product:hover {
-    background: #e7f3ff; /* Màu nền khi hover */
-    transform: scale(1.02); /* Tăng kích thước nhẹ khi hover */
+    background: #e7f3ff; 
+    transform: scale(1.02);
 }
 
 footer {
